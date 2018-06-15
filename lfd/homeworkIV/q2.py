@@ -26,6 +26,10 @@ class KMeans():
         dist_list = list(map( lambda t: np.sqrt((x[0]-t[0])**2+(x[1]-t[1])**2), Y )) 
         return dist_list.index(min(dist_list)),min(dist_list)
 
+    # Convergence is wrong,
+    # Needed to update
+    # We should check centroids positions instead of constant number of iterations.
+    # Iterations may be optional to make algorithm faster(but it can decrease the performance.)
     def train(self,X):
         K = self.K
         np.random.seed(1)
