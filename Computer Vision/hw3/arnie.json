@@ -1,0 +1,336 @@
+{
+        "mouth_upper_lip_left_contour2": {
+          "y": 327,
+          "x": 119
+        },
+        "mouth_upper_lip_top": {
+          "y": 324,
+          "x": 144
+        },
+        "mouth_upper_lip_left_contour1": {
+          "y": 323,
+          "x": 134
+        },
+        "left_eye_upper_left_quarter": {
+          "y": 218,
+          "x": 82
+        },
+        "left_eyebrow_lower_middle": {
+          "y": 209,
+          "x": 83
+        },
+        "mouth_upper_lip_left_contour3": {
+          "y": 331,
+          "x": 125
+        },
+        "right_eye_top": {
+          "y": 209,
+          "x": 191
+        },
+        "left_eye_bottom": {
+          "y": 227,
+          "x": 93
+        },
+        "right_eyebrow_lower_left_quarter": {
+          "y": 203,
+          "x": 178
+        },
+        "right_eye_pupil": {
+          "y": 214,
+          "x": 193
+        },
+        "mouth_lower_lip_right_contour1": {
+          "y": 330,
+          "x": 167
+        },
+        "mouth_lower_lip_right_contour3": {
+          "y": 342,
+          "x": 163
+        },
+        "mouth_lower_lip_right_contour2": {
+          "y": 336,
+          "x": 177
+        },
+        "contour_chin": {
+          "y": 410,
+          "x": 149
+        },
+        "contour_left9": {
+          "y": 403,
+          "x": 123
+        },
+        "left_eye_lower_right_quarter": {
+          "y": 226,
+          "x": 104
+        },
+        "mouth_lower_lip_top": {
+          "y": 333,
+          "x": 144
+        },
+        "right_eyebrow_upper_middle": {
+          "y": 190,
+          "x": 196
+        },
+        "left_eyebrow_left_corner": {
+          "y": 214,
+          "x": 55
+        },
+        "right_eye_bottom": {
+          "y": 221,
+          "x": 193
+        },
+        "contour_left7": {
+          "y": 366,
+          "x": 89
+        },
+        "contour_left6": {
+          "y": 345,
+          "x": 77
+        },
+        "contour_left5": {
+          "y": 322,
+          "x": 67
+        },
+        "contour_left4": {
+          "y": 298,
+          "x": 61
+        },
+        "contour_left3": {
+          "y": 273,
+          "x": 55
+        },
+        "contour_left2": {
+          "y": 249,
+          "x": 52
+        },
+        "contour_left1": {
+          "y": 224,
+          "x": 50
+        },
+        "left_eye_lower_left_quarter": {
+          "y": 227,
+          "x": 83
+        },
+        "contour_right1": {
+          "y": 215,
+          "x": 260
+        },
+        "contour_right3": {
+          "y": 270,
+          "x": 260
+        },
+        "contour_right2": {
+          "y": 243,
+          "x": 261
+        },
+        "mouth_left_corner": {
+          "y": 333,
+          "x": 106
+        },
+        "contour_right4": {
+          "y": 298,
+          "x": 258
+        },
+        "contour_right7": {
+          "y": 373,
+          "x": 224
+        },
+        "right_eyebrow_left_corner": {
+          "y": 202,
+          "x": 159
+        },
+        "nose_right": {
+          "y": 287,
+          "x": 173
+        },
+        "nose_tip": {
+          "y": 283,
+          "x": 139
+        },
+        "contour_right5": {
+          "y": 325,
+          "x": 252
+        },
+        "nose_contour_lower_middle": {
+          "y": 300,
+          "x": 142
+        },
+        "left_eyebrow_lower_left_quarter": {
+          "y": 211,
+          "x": 68
+        },
+        "mouth_lower_lip_left_contour3": {
+          "y": 345,
+          "x": 129
+        },
+        "right_eye_right_corner": {
+          "y": 216,
+          "x": 212
+        },
+        "right_eye_lower_right_quarter": {
+          "y": 219,
+          "x": 203
+        },
+        "mouth_upper_lip_right_contour2": {
+          "y": 323,
+          "x": 172
+        },
+        "right_eyebrow_lower_right_quarter": {
+          "y": 203,
+          "x": 213
+        },
+        "left_eye_left_corner": {
+          "y": 224,
+          "x": 74
+        },
+        "mouth_right_corner": {
+          "y": 327,
+          "x": 190
+        },
+        "mouth_upper_lip_right_contour3": {
+          "y": 328,
+          "x": 167
+        },
+        "right_eye_lower_left_quarter": {
+          "y": 220,
+          "x": 182
+        },
+        "left_eyebrow_right_corner": {
+          "y": 208,
+          "x": 116
+        },
+        "left_eyebrow_lower_right_quarter": {
+          "y": 208,
+          "x": 99
+        },
+        "right_eye_center": {
+          "y": 217,
+          "x": 192
+        },
+        "nose_left": {
+          "y": 291,
+          "x": 112
+        },
+        "mouth_lower_lip_left_contour1": {
+          "y": 333,
+          "x": 125
+        },
+        "left_eye_upper_right_quarter": {
+          "y": 218,
+          "x": 104
+        },
+        "right_eyebrow_lower_middle": {
+          "y": 202,
+          "x": 196
+        },
+        "left_eye_top": {
+          "y": 215,
+          "x": 93
+        },
+        "left_eye_center": {
+          "y": 223,
+          "x": 93
+        },
+        "contour_left8": {
+          "y": 387,
+          "x": 104
+        },
+        "contour_right9": {
+          "y": 406,
+          "x": 179
+        },
+        "right_eye_left_corner": {
+          "y": 220,
+          "x": 173
+        },
+        "mouth_lower_lip_bottom": {
+          "y": 346,
+          "x": 145
+        },
+        "left_eyebrow_upper_left_quarter": {
+          "y": 200,
+          "x": 65
+        },
+        "left_eye_pupil": {
+          "y": 220,
+          "x": 94
+        },
+        "right_eyebrow_upper_left_quarter": {
+          "y": 192,
+          "x": 177
+        },
+        "contour_right8": {
+          "y": 392,
+          "x": 204
+        },
+        "right_eyebrow_right_corner": {
+          "y": 203,
+          "x": 229
+        },
+        "right_eye_upper_left_quarter": {
+          "y": 212,
+          "x": 181
+        },
+        "left_eyebrow_upper_middle": {
+          "y": 195,
+          "x": 82
+        },
+        "right_eyebrow_upper_right_quarter": {
+          "y": 191,
+          "x": 214
+        },
+        "nose_contour_left1": {
+          "y": 223,
+          "x": 125
+        },
+        "nose_contour_left2": {
+          "y": 270,
+          "x": 119
+        },
+        "mouth_upper_lip_right_contour1": {
+          "y": 321,
+          "x": 153
+        },
+        "nose_contour_right1": {
+          "y": 221,
+          "x": 156
+        },
+        "nose_contour_right2": {
+          "y": 268,
+          "x": 165
+        },
+        "mouth_lower_lip_left_contour2": {
+          "y": 340,
+          "x": 116
+        },
+        "contour_right6": {
+          "y": 351,
+          "x": 240
+        },
+        "nose_contour_right3": {
+          "y": 295,
+          "x": 158
+        },
+        "nose_contour_left3": {
+          "y": 297,
+          "x": 126
+        },
+        "left_eye_right_corner": {
+          "y": 225,
+          "x": 114
+        },
+        "left_eyebrow_upper_right_quarter": {
+          "y": 197,
+          "x": 100
+        },
+        "right_eye_upper_right_quarter": {
+          "y": 211,
+          "x": 202
+        },
+        "mouth_upper_lip_bottom": {
+          "y": 331,
+          "x": 144
+        }
+    }
+
+
